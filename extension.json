@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "Delivery Date"
+  },
+  "description": {
+    "en": "Period during which the item should be delivered"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ],
+  "documentationUrl": {
+    "en": "https://github.com/openprocurement/ocds_deliveryDate_extension"
+  }
+}
